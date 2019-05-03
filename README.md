@@ -1,2 +1,2 @@
-# ejemplo
+# Ejemplo
 Repositorio ejemplo
